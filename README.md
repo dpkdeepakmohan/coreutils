@@ -1,2 +1,2 @@
-# linux_sys_programming
-Linux system programming
+# GNU Core utilities
+Reimplementing core utilities to learn systems programming.
